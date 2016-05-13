@@ -1,1 +1,1 @@
-web: vendor/bin/heroku-hhvm-nginx -i custom_php.ini .
+web: vendor/bin/heroku-hhvm-nginx 
